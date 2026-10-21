@@ -1,2 +1,7 @@
-_(...) Did you exchange_ <br/>
-_A walk-on part in the war for a lead role in a cage?_
+# Facundo Gartner
+
+### Selected Projects
+
+- **[Pilar](https://pilar.business)** — Founder · Point-of-sale, inventory, and business management platform.
+- **Pulse** — Creator · Visual editor for web animations.
+- **[MiniJava Compiler](https://github.com/gartnerfn/minijava-compiler)** — A compiler implementing the complete compilation pipeline for a subset of Java.
